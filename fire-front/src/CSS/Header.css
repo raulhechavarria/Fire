@@ -1,0 +1,26 @@
+h2 {
+  color: aliceblue;
+  -webkit-text-stroke-color: red;
+  -webkit-text-fill-color: black;
+  -webkit-text-stroke-width: 0.75px; 
+}
+
+h1 {
+  color: aliceblue;
+
+  -webkit-text-fill-color: black;
+  
+  -webkit-text-stroke-width: 0.75px; 
+}
+
+.menu li {
+display: inline-block;
+padding-right: 10px;
+}
+/*
+.Header {
+  background-image: url(http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mtlfirechiefs.jpg/500px-Mtlfirechiefs.jpg);
+  background-size: 600px 200px;
+    
+  
+}*/
